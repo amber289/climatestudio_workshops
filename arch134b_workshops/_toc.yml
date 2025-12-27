@@ -7,7 +7,7 @@ parts:
 - caption: Tutorials
   numbered: true
   chapters:
-  - file: docs/01_climate
+  - file: docs/01_climate 
     sections:
     - file: docs/01_1_climate_p1
     - file: docs/01_2_climate_p2
