@@ -1,4 +1,4 @@
-# Building Energy Modeling Workshops (Rhino & Ladybug Tools Edition) 2025
+# ClimateStudio Tutorials 2025
 
 tutorials for understanding environmental conditions when designing buildings
 
