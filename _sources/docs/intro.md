@@ -1,1 +1,1 @@
-# Arch134b workshops
+# Climate Studio Workshops
